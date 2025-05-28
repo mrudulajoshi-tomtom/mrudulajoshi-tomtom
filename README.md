@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mrudulajoshi-tomtom
 - 👀 I’m interested in Java, Spring ecosystem
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Geospacial technologies
 - 📫 How to reach me mrudula.joshi@tomtom.com
 
 <!---
